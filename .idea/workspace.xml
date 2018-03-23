@@ -15,37 +15,22 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="199" column="149" lean-forward="false" selection-start-line="199" selection-start-column="149" selection-end-line="199" selection-end-column="149" />
+            <state relative-caret-position="313">
+              <caret line="145" column="31" lean-forward="false" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
               <folding>
-                <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-                <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-                <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-                <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-                <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-                <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-                <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-                <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-                <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-                <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-                <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-                <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-                <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+                <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+                <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+                <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+                <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+                <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+                <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+                <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+                <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+                <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+                <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+                <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+                <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+                <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
               </folding>
             </state>
           </provider>
@@ -59,6 +44,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -82,9 +70,10 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1292" />
+    <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -101,6 +90,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -115,11 +105,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myarea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -243,26 +232,28 @@
       <workItem from="1521532738173" duration="15898000" />
       <workItem from="1521557295315" duration="693000" />
       <workItem from="1521614240953" duration="12202000" />
+      <workItem from="1521638592660" duration="1257000" />
+      <workItem from="1521805413826" duration="313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123118000" />
+    <option name="totallyTimeSpent" value="124688000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1292" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -290,218 +281,115 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php" />
     <entry file="file://$PROJECT_DIR$/.htaccess" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php" />
     <entry file="file://$PROJECT_DIR$/.htaccess" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="65" lean-forward="false" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php" />
     <entry file="file://$PROJECT_DIR$/.htaccess" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="65" lean-forward="false" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php" />
     <entry file="file://$PROJECT_DIR$/.htaccess" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1598">
           <caret line="99" column="67" lean-forward="false" selection-start-line="99" selection-start-column="67" selection-end-line="99" selection-end-column="67" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
@@ -514,47 +402,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess" />
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1598">
           <caret line="99" column="67" lean-forward="false" selection-start-line="99" selection-start-column="67" selection-end-line="99" selection-end-column="67" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
@@ -567,185 +433,97 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess" />
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess" />
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="68" column="11" lean-forward="false" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess" />
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="68" column="11" lean-forward="false" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess" />
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
@@ -756,34 +534,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
@@ -794,34 +557,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
@@ -832,34 +580,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
@@ -869,34 +602,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
@@ -907,34 +625,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>
@@ -962,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="543" column="9" lean-forward="false" selection-start-line="543" selection-start-column="9" selection-end-line="543" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -980,47 +682,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="199" column="149" lean-forward="false" selection-start-line="199" selection-start-column="149" selection-end-line="199" selection-end-column="149" />
+        <state relative-caret-position="313">
+          <caret line="145" column="31" lean-forward="false" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1521632051737" expanded="true" signature="18:79" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="117:131" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
-            <marker date="1521632051737" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
-            <marker date="1521632051737" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
-            <marker date="1521632051737" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
-            <marker date="1521632051737" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
-            <marker date="1521632051737" expanded="true" signature="3440:3478" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3440:4005" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3495:3996" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3507:3633" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="3650:3982" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4028" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4013:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4041:4251" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4067:4204" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4138:4190" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4357:4362" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="4695:4853" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="4911:5069" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5219:5389" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5298:5303" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5429:5621" ph="..." />
-            <marker date="1521632051737" expanded="true" signature="5510:5515" ph="&amp;" />
-            <marker date="1521632051737" expanded="true" signature="5527:5607" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="18:79" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="117:131" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="573:718" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="736:779" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="736:861" ph="CREATE TABLE... users" />
+            <marker date="1521805735069" expanded="true" signature="797:861" ph="ALTER TABLE `users`... " />
+            <marker date="1521805735069" expanded="true" signature="1540:1616" ph="INSERT INTO users... " />
+            <marker date="1521805735069" expanded="true" signature="2379:2414" ph="SELECT * FRO... users" />
+            <marker date="1521805735069" expanded="true" signature="2702:2730" ph="SELECT COUNT... $" />
+            <marker date="1521805735069" expanded="true" signature="3440:3478" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4013:4028" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4695:4853" ph="..." />
+            <marker date="1521805735069" expanded="true" signature="4911:5069" ph="..." />
           </folding>
         </state>
       </provider>

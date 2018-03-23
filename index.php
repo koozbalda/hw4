@@ -143,7 +143,7 @@ $per_page = empty($_GET['per-page']) ? 15 : $_GET['per-page'];
 
 $last_page = ceil(getCountRows($connect)/$per_page);
 
-$page = empty($_GET['page']) && $_GET['page'] > $last_page ? 1 : $_GET['page'];
+$page = empty($_GET['page']) || $_GET['page'] > $last_page ? 1 : $_GET['page'];
 
 $requestArray=getArrayFromTable($connect,$page,$per_page);
 
